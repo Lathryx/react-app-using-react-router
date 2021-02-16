@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app-using-react-router/static/css/main.4fb96021.chunk.css",
+    "main.js": "/react-app-using-react-router/static/js/main.e81ee2f7.chunk.js",
+    "main.js.map": "/react-app-using-react-router/static/js/main.e81ee2f7.chunk.js.map",
+    "runtime-main.js": "/react-app-using-react-router/static/js/runtime-main.d2a69495.js",
+    "runtime-main.js.map": "/react-app-using-react-router/static/js/runtime-main.d2a69495.js.map",
+    "static/js/2.aa17550b.chunk.js": "/react-app-using-react-router/static/js/2.aa17550b.chunk.js",
+    "static/js/2.aa17550b.chunk.js.map": "/react-app-using-react-router/static/js/2.aa17550b.chunk.js.map",
+    "static/js/3.56f3deab.chunk.js": "/react-app-using-react-router/static/js/3.56f3deab.chunk.js",
+    "static/js/3.56f3deab.chunk.js.map": "/react-app-using-react-router/static/js/3.56f3deab.chunk.js.map",
+    "index.html": "/react-app-using-react-router/index.html",
+    "static/css/main.4fb96021.chunk.css.map": "/react-app-using-react-router/static/css/main.4fb96021.chunk.css.map",
+    "static/js/2.aa17550b.chunk.js.LICENSE.txt": "/react-app-using-react-router/static/js/2.aa17550b.chunk.js.LICENSE.txt",
+    "static/media/arrowLeft.8d411e10.png": "/react-app-using-react-router/static/media/arrowLeft.8d411e10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a69495.js",
+    "static/js/2.aa17550b.chunk.js",
+    "static/css/main.4fb96021.chunk.css",
+    "static/js/main.e81ee2f7.chunk.js"
+  ]
+}
