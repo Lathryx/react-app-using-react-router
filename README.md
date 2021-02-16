@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# React App using React Router 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This small project uses React's `React Router` in order to quickly and seamlessly navigate through different pages. The `React Router` make React apps feel more like *apps* rather than slow, unreliable websites. 
 
-## Available Scripts
+### What does this app use? 
+This app uses a Fortnite API, which can be found here: https://fortnite-api.com 
 
-In the project directory, you can run:
+I gathered information about the current items in the Fortnite Battle Royale item shop through this API in order to create a sort of shop of my own (cause why not lol). 
 
-### `npm start`
+I also, as the name implies and as I previously said, used the `React Router` from `React`, but more generally, I used `React` to build this app. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Get started with React! 
+If you're wanting to learn more about React, I recommend checking out [Codecademy's interactive course](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjz6fO0ou_uAhUxTDABHc6IChsQFjAAegQIARAD&url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Freact-101&usg=AOvVaw1ayMaswl3vFO16pM7zyzcl). After you've taken that, go check out [Dev Ed's series on learning React](https://www.youtube.com/playlist?list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE)! 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A helpful and quick way to start a new React app on your local machine is through the `create-react-app` package, their documentation for usage and deployment can be found here: https://create-react-app.dev/
 
-### `npm test`
+I've also found [this documentation on deploying React apps to GitHub pages](https://github.com/gitname/react-gh-pages) very useful! 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you would rather experiment online, you can do so with [this boilerplate on Repl.it](https://repl.it/@templates/Create-React-App) or my own [template on CodePen](https://codepen.io/MrMaster/pen/oNYWNjr)! 
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+*I credit this project to the amazing [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) (on YouTube)!* 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Thanks for checking out this project and have fun coding! 
