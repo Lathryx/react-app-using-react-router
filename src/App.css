@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(99, 105, 105); 
+  color: white; 
+}
+
+.App {
+  text-align: center;
+  color: white; 
+}
+
+.Nav {
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+  min-height: 10vh; 
+  background-color: rgb(75, 80, 80); 
+  color: white; 
+}
+
+.nav-links {
+  width: 50%; 
+  display: flex; 
+  justify-content: space-around; 
+  align-items: center; 
+  list-style: none;
+}
